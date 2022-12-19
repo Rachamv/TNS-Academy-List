@@ -1,5 +1,5 @@
 # TNS-Academy-List
-[Study plan] (https://github.com/TNSQUAD/Techie-Nerd-Academy)
+[Study plan](https://github.com/TNSQUAD/Techie-Nerd-Academy)
 - [Algorithms](#algorithms)
 - [Artificial Intelligence](#artificial-intelligence)
 - [Business](#business)
